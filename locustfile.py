@@ -5,7 +5,6 @@ class UserBehavior(TaskSet):
     # def on_start(self):
     #     """ on_start is called when a Locust start before any task is scheduled """
     #     self.login()
-    #
     # def on_stop(self):
     #     """ on_stop is called when the TaskSet is stopping """
     #     self.logout()
